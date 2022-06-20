@@ -57,5 +57,18 @@
 ![image](./img/explosion.png)
 ## 7-2. 파라미터 분석
 ### 플레이어 파라미터
+![image](./img/playerParam.png)
 
+### 적 파라미터
+![image](./img/mosterParam.png)
+
+### 기본 스킬 파라미터
+![image](./img/skillParam.png)
+
+## 7-4. 오브젝트 상태
+### 플레이어 상태
+![image](./img/playerState.png)
+
+### 적 상태
+![image](./img/monsterState.png)
 
