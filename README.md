@@ -37,6 +37,8 @@
 - 동영상
   [![](./img/영상이미지.png)](https://youtu.be/OVBfIrPvq8g)
 
+<video src='./img/관련영상.mp4' width=600/>
+
 <br><br>
 
 # [대표 이미지]
