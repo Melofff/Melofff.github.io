@@ -98,8 +98,8 @@
 |연번|오브젝트명|오브젝트 이미지|
 |:----:|:----:|:----:|
 |01|미니언|<img src="./img/minion_b.png"> <img src="./img/minion_r.png">|
-|02|타워||
-|03|넥서스||
+|02|타워|<img src="./img/Tower.png">|
+|03|넥서스|<img src="./img/Nexus.png">|
 |04|방패병|<img src="./img/shielder.png">|
 |05|기사|<img src="./img/knight.png">|
 |06|전사|<img src="./img/babarian.png">|
